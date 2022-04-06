@@ -1,0 +1,15 @@
+.gallery__videos .gallery__video__primary {
+  width: 100% !important;
+  max-height: 300px;
+  margin-bottom: 10px;
+}
+
+.gallery__videos__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+
+.gallery__video {
+  height: 110px !important;
+}

@@ -1,0 +1,12 @@
+.form-table input[type="text"] {
+  width: 80%;
+}
+
+.form-table textarea {
+  width: 80%;
+  height: 120px;
+}
+
+p.description {
+  font-size: 14px;
+}
